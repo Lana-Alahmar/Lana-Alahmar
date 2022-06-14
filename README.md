@@ -1,0 +1,10 @@
+- 👋 Hi, I’m @Lana-Alahmar
+- 👀 I’m interested in travelling, Guitar and business
+- 🌱 I’m currently learning MBA
+- 💞️ I’m looking to collaborate on international organizations and volunteering activities
+- 📫 How to reach me : https://www.linkedin.com/in/lana-alahmar-5b028615b/
+
+<!---
+Lana-Alahmar/Lana-Alahmar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
